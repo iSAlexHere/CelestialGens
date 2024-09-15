@@ -17,13 +17,11 @@
 		{
 			"tab1":
 			{
-				"layout": 2,
+				"layout": 1,
 				"buttontext": "Info General / General Info",
 				"title1": "¡Bienvenido a CelestialGens! / Welcome to CelestialGens!",
 				"text1": "CelestialGens es un servidor PvE x100 ESP/ENG con mods como Primal Chaos y Ark Descended. Participa en eventos semanales y construye tu base en este mundo lleno de desafíos. / CelestialGens is a PvE x100 ESP/ENG server with mods like Primal Chaos and Ark Descended. Join weekly events and build your base in this challenging world.\r\n\r\nPuedes unirte a nuestro Discord para más información: [Discord](https://discord.gg/celestialgens) / You can join our Discord for more information: [Discord](https://discord.gg/celestialgens)",
-				"imageurl": "https://i.imgur.com/AvtgbNd.png",
-				"title2": "New Title",
-				"text2": "New Text"
+				"imageurl": "https://i.imgur.com/AvtgbNd.png"
 			}
 		},
 		{
