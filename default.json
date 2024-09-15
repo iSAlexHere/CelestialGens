@@ -1,134 +1,96 @@
 {
   "WBUI2": {
-    "settings": {
-      "OpenButton": 0,
-      "HideIcon": false,
-      "HideIconAfter": 60,
-      "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-      "DisableIconText": false,
-      "IconPosition": 0,
-      "IconTextColor": 0,
-      "OpenOnStart": true,
-      "OpenOnStartOnlyNewPlayers": true,
-      "UpdateInterval": 12
-    },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"0,1,0,1\">Servidor CelestialGens</>",
-          "title1": "¡Bienvenido a CelestialGens!",
-          "text1": "CelestialGens es un servidor PvE x100 ESP/ENG con mods como Primal Chaos y Ark Descended. Participa en eventos semanales y construye tu base en este mundo lleno de desafíos.\n\nPuedes unirte a nuestro Discord para más información: [Discord](https://discord.gg/celestialgens)",
-          "imageurl": "https://url-to-your-image.com/A_dynamic_background_for_a_server_named_Celestial.png"
-        }
-      },
-      {
-        "tab1_eng": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"0,1,0,1\">CelestialGens Server</>",
-          "title1": "Welcome to CelestialGens!",
-          "text1": "CelestialGens is a PvE x100 ESP/ENG server with mods like Primal Chaos and Ark Descended. Join weekly events and build your base in this challenging world.\n\nYou can join our Discord for more information: [Discord](https://discord.gg/celestialgens)",
-          "imageurl": "https://url-to-your-image.com/A_dynamic_background_for_a_server_named_Celestial.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Reglas del Servidor",
-          "title1": "Normas Generales",
-          "title2": "Normas de Construcción",
-          "text1": "1. No se permite el uso de hacks o exploits.\n2. Respetar a los demás jugadores.\n3. No hacer spam o griefing.\n4. Mantén un lenguaje respetuoso en el chat.",
-          "text2": "1. No construir en zonas de recursos.\n2. Evitar bloquear cuevas o zonas de spawn.\n3. Destruir estructuras abandonadas.\n4. Respeta las áreas comunitarias.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab2_eng": {
-          "layout": 2,
-          "buttontext": "Server Rules",
-          "title1": "General Rules",
-          "title2": "Building Rules",
-          "text1": "1. No hacking or exploiting allowed.\n2. Respect other players.\n3. No spam or griefing.\n4. Keep chat respectful.",
-          "text2": "1. Do not build in resource areas.\n2. Avoid blocking caves or spawn zones.\n3. Destroy abandoned structures.\n4. Respect community areas.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "Eventos Semanales",
-          "title1": "Próximos Eventos",
-          "title2": "Día de Cría",
-          "title3": "Evento PvP",
-          "text1": "Participa en eventos semanales para ganar recompensas únicas.",
-          "text2": "Todos los domingos la velocidad de cría se incrementa para que puedas expandir tu base.",
-          "text3": "Evento PvP cada sábado a las 18:00. ¡Demuestra tus habilidades!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab3_eng": {
-          "layout": 3,
-          "buttontext": "Weekly Events",
-          "title1": "Upcoming Events",
-          "title2": "Breeding Day",
-          "title3": "PvP Event",
-          "text1": "Join weekly events for unique rewards.",
-          "text2": "Every Sunday, breeding speed is increased to help you expand your base.",
-          "text3": "PvP event every Saturday at 18:00. Show your skills!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "Soporte y Tienda",
-          "title1": "Soporte del Servidor",
-          "title2": "<TextStyle.Green>Tienda del Servidor</>",
-          "title3": "<TextStyle.Blue>Contacto</>",
-          "title4": "<TextStyle.Yellow>FAQ</>",
-          "text1": "Si necesitas asistencia, únete a nuestro Discord.",
-          "text2": "Visita nuestra tienda en línea para obtener objetos exclusivos.",
-          "text3": "Contáctanos a través del formulario de soporte.",
-          "text4": "Consulta nuestras preguntas frecuentes para resolver tus dudas.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab4_eng": {
-          "layout": 4,
-          "buttontext": "Support and Shop",
-          "title1": "Server Support",
-          "title2": "<TextStyle.Green>Server Shop</>",
-          "title3": "<TextStyle.Blue>Contact</>",
-          "title4": "<TextStyle.Yellow>FAQ</>",
-          "text1": "If you need assistance, join our Discord.",
-          "text2": "Visit our online shop for exclusive items.",
-          "text3": "Contact us via the support form.",
-          "text4": "Check our FAQ for answers to your questions.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Wiki del Servidor",
-          "url": "https://github.com/iSAlexHere/CelestialGens/wiki"
-        }
-      },
-      {
-        "link2": {
-          "text": "Discord de CelestialGens",
-          "url": "https://discord.gg/celestialgens"
-        }
-      },
-      {
-        "link3": {
-          "text": "Página de la tienda",
-          "url": "https://tienda.celestialgens.com"
-        }
-      }
-    ]
-  }
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": false,
+		"HideIconAfter": 60,
+		"IconURL": "https://i.imgur.com/bTZxEc0.png",
+		"DisableIconText": true,
+		"IconPosition": 0,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": true,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 2,
+				"buttontext": "Info General / General Info",
+				"title1": "¡Bienvenido a CelestialGens! / Welcome to CelestialGens!",
+				"text1": "CelestialGens es un servidor PvE x100 ESP/ENG con mods como Primal Chaos y Ark Descended. Participa en eventos semanales y construye tu base en este mundo lleno de desafíos. / CelestialGens is a PvE x100 ESP/ENG server with mods like Primal Chaos and Ark Descended. Join weekly events and build your base in this challenging world.\r\n\r\nPuedes unirte a nuestro Discord para más información: [Discord](https://discord.gg/celestialgens) / You can join our Discord for more information: [Discord](https://discord.gg/celestialgens)",
+				"imageurl": "https://i.imgur.com/AvtgbNd.png",
+				"title2": "New Title",
+				"text2": "New Text"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 2,
+				"buttontext": "Reglas / Rules",
+				"title1": "Normas Generales / General Rules",
+				"title2": "Normas de Construcción / Building Rules",
+				"text1": "1. No se permite el uso de hacks o exploits. / No hacking or exploiting allowed.\n2. Respetar a los demás jugadores. / Respect other players.\n3. No hacer spam o griefing. / No spam or griefing.\n4. Mantén un lenguaje respetuoso en el chat. / Keep chat respectful.",
+				"text2": "1. No construir en zonas de recursos. / Do not build in resource areas.\n2. Evitar bloquear cuevas o zonas de spawn. / Avoid blocking caves or spawn zones.\n3. Destruir estructuras abandonadas. / Destroy abandoned structures.\n4. Respeta las áreas comunitarias. / Respect community areas.",
+				"imageurl": "https://i.imgur.com/AvtgbNd.png"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 3,
+				"buttontext": "Eventos / Events",
+				"title1": "Próximos Eventos / Upcoming Events",
+				"title2": "Día de Cría / Breeding Day",
+				"title3": "Evento PvP / PvP Event",
+				"text1": "Participa en eventos semanales para ganar recompensas únicas. / Join weekly events for unique rewards.",
+				"text2": "Todos los domingos la velocidad de cría se incrementa para que puedas expandir tu base. / Every Sunday, breeding speed is increased to help you expand your base.",
+				"text3": "Evento PvP cada sábado a las 18:00. ¡Demuestra tus habilidades! / PvP event every Saturday at 18:00. Show your skills!",
+				"imageurl": "https://i.imgur.com/AvtgbNd.png"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 4,
+				"buttontext": "Soporte / Support",
+				"title1": "Soporte del Servidor / Server Support",
+				"title2": "<TextStyle.Green>Tienda / Shop</>",
+				"title3": "<TextStyle.Blue>Contacto / Contact</>",
+				"title4": "<TextStyle.Yellow>FAQ</>",
+				"text1": "Si necesitas asistencia, únete a nuestro Discord. / If you need assistance, join our Discord.",
+				"text2": "Visita nuestra tienda en línea para obtener objetos exclusivos. / Visit our online shop for exclusive items.",
+				"text3": "Contáctanos a través del formulario de soporte. / Contact us via the support form.",
+				"text4": "Consulta nuestras preguntas frecuentes para resolver tus dudas. / Check our FAQ for answers to your questions.",
+				"imageurl": "https://i.imgur.com/AvtgbNd.png"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "Wiki / Wiki",
+				"url": "https://github.com/iSAlexHere/CelestialGens/wiki"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/celestialgens"
+			}
+		},
+		{
+			"link3":
+			{
+				"text": "Tienda / Shop",
+				"url": "https://tienda.celestialgens.com"
+			}
+		}
+	]
+}
 }
