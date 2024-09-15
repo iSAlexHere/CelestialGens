@@ -1,0 +1,116 @@
+{
+    "server_name": "CelestialGens",
+    "welcome_message": "¡Bienvenido al servidor CelestialGens! Disfruta de tu aventura en el mundo de ARK.",
+    "discord_url": "https://discord.gg/celestialgens",
+    "website_url": "https://tusitio.com",
+    "motd": "Sobrevive, evoluciona y únete a la comunidad de CelestialGens.",
+    "server_rules": [
+        {
+            "title": "Reglas Generales",
+            "rules": [
+                "No está permitido el uso de hacks o exploits.",
+                "Respetar a otros jugadores y al staff.",
+                "No atacar bases fuera de eventos PvP.",
+                "Mantén el chat limpio y respetuoso."
+            ]
+        },
+        {
+            "title": "Reglas de Construcción",
+            "rules": [
+                "No construir en zonas prohibidas o cercanas a eventos.",
+                "No obstruir caminos o áreas importantes del mapa.",
+                "Destruye las construcciones abandonadas."
+            ]
+        }
+    ],
+    "custom_ui": {
+        "header_color": "#1E90FF",
+        "header_text": "Bienvenido a CelestialGens",
+        "footer_text": "Gracias por ser parte de la comunidad CelestialGens",
+        "background_image": "https://url-to-your-image.com/A_dynamic_background_for_a_server_named_Celestial.png",  
+        "logo_image": "https://url-to-your-image.com/A_logo_for_a_server_named_CelestialGens.png"
+    },
+    "tabs": [
+        {
+            "name": "Home",
+            "icon": "home",
+            "sections": [
+                {
+                    "title": "CelestialGens",
+                    "text": "CelestialGens es un servidor dedicado a ofrecer la mejor experiencia PvE de ARK: Survival Ascended. Únete a nuestra comunidad, participa en eventos y explora el vasto mundo de ARK."
+                },
+                {
+                    "title": "Conéctate",
+                    "text": "Únete al servidor de Discord para estar al tanto de noticias y actualizaciones: [Discord](https://discord.gg/celestialgens)"
+                }
+            ]
+        },
+        {
+            "name": "Rules",
+            "icon": "gavel",
+            "sections": [
+                {
+                    "title": "Reglas del Servidor",
+                    "text": "Asegúrate de seguir las reglas del servidor para mantener un ambiente justo y agradable para todos."
+                },
+                {
+                    "title": "Normas de Comportamiento",
+                    "text": "Se espera que los jugadores mantengan un comportamiento respetuoso y constructivo en todas las interacciones."
+                }
+            ]
+        },
+        {
+            "name": "Events",
+            "icon": "calendar",
+            "sections": [
+                {
+                    "title": "Próximos Eventos",
+                    "text": "¡Participa en los eventos semanales de CelestialGens para ganar recompensas únicas!"
+                },
+                {
+                    "title": "Batallas de Dinosaurios",
+                    "text": "Todos los sábados a las 18:00, únete a la arena y demuestra tu destreza en combate."
+                },
+                {
+                    "title": "Día de Cría",
+                    "text": "Los domingos, la velocidad de cría aumenta considerablemente. ¡Aprovecha para criar a tus criaturas!"
+                }
+            ]
+        },
+        {
+            "name": "Shop",
+            "icon": "shopping-cart",
+            "sections": [
+                {
+                    "title": "Tienda del Servidor",
+                    "text": "Compra objetos especiales, dinosaurios y más usando puntos del servidor. [Tienda](https://tienda.celestialgens.com)"
+                }
+            ]
+        },
+        {
+            "name": "Support",
+            "icon": "support",
+            "sections": [
+                {
+                    "title": "Soporte",
+                    "text": "Si tienes algún problema, contacta con el soporte del servidor mediante Discord o el formulario en nuestra web."
+                }
+            ]
+        }
+    ],
+    "server_stats": {
+        "show_online_players": true,
+        "show_server_ping": true,
+        "show_server_time": true,
+        "show_dino_count": true
+    },
+    "help_menu": {
+        "enabled": true,
+        "commands": [
+            "/info - Información del servidor.",
+            "/rules - Reglas del servidor.",
+            "/discord - Accede a nuestro Discord.",
+            "/shop - Enlace a la tienda del servidor."
+        ]
+    }
+}
